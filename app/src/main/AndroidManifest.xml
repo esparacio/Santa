@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.elon.secretsanta" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/santaicon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GroupNum"
+            android:label="@string/title_activity_group_num" >
+        </activity>
+        <activity
+            android:name=".Person"
+            android:label="@string/title_activity_person" >
+        </activity>
+        <activity
+            android:name=".Wishlist"
+            android:label="@string/title_activity_wishlist" >
+        </activity>
+        <activity
+            android:name=".oops"
+            android:label="@string/title_activity_oops" >
+        </activity>
+        <activity
+            android:name=".Sent"
+            android:label="@string/title_activity_sent" >
+        </activity>
+        <activity
+            android:name=".Naught"
+            android:label="@string/title_activity_naught" >
+        </activity>
+        <activity
+            android:name=".Group"
+            android:label="@string/title_activity_group" >
+        </activity>
+        <activity
+            android:name=".Matched"
+            android:label="@string/title_activity_matched" >
+        </activity>
+    </application>
+
+</manifest>

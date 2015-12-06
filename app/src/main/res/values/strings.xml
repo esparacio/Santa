@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SecretSanta</string>
+
+    <string name="groupnum">What\'s Your Group Number?</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_group_num">GroupNum</string>
+    <string name="title_activity_person">Person</string>
+    <string name="name">Name</string>
+
+    <string name="group">Group Number</string>
+    <string name="naughty">Naughty</string>
+    <string name="nice">Nice</string>
+    <string name="non">Naughty or Nice?</string>
+    <string name="wishlist">Wish List</string>
+    <string name="list">Group Members</string>
+    <string name="count">Group Count</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_wishlist">Wishlist</string>
+    <string name="title_activity_oops">Oops</string>
+    <string name="title_activity_sent">List Sent</string>
+    <string name="title_activity_naught">Naughty</string>
+    <string name="title_activity_group">Group</string>
+    <string name="title_activity_matched">Matched</string>
+
+</resources>
